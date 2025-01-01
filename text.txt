@@ -1,0 +1,28 @@
+First name:
+Basheer
+Last name:
+Al SAIDI
+Owner Home Address:
+1707 East Central Avenue suite 1
+Owner Phone Number:
+19106330016
+Owner Email address:
+32432432@gmail.com
+Social Security:
+234444444
+Confirm Social Security:
+32444444324
+Location Name (DBA):
+rewwwwwwww
+Legal Name:
+fddddddg
+Location Address:
+8025 Tara Boulevard
+Location Email:
+nelia_epps@hotmail.com
+Location Phone Number:
+19107977979
+required files:
+Tax Id
+Driver License / ID
+Voided Check
